@@ -28,11 +28,7 @@ Les données sont disponibles sur le site IMDB. Les données sont réparties en 
  <p align="center">
   <img src="images/Intro_data.png" alt="logo2" width="300"/>
   <img src="images/Etude_general.png" alt="logo1" width="300"/>
-   
   <img src="images/KPI.png" alt="logo3" width="300"/>
-  <img src="images/Finances.png" alt="logo3" width="300"/>
-  
-  <img src="images/Evalutation_genres.png" alt="logo3" width="300"/>
-  <img src="images/Contributeurs.png" alt="logo3" width="300"/>
+  <img src="images/Finances.png" alt="logo3" width="300"/> 
 </p>
 
