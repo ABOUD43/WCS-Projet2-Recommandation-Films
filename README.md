@@ -26,13 +26,13 @@ Les données sont disponibles sur le site IMDB. Les données sont réparties en 
 
  Voici un aperçu du tableau de bord développé via Power BI 
  <p align="center">
-  <img src="images/Intro_data.png" alt="logo2" width="400"/>
-  <img src="images/Etude_general.png" alt="logo1" width="400"/>
+  <img src="images/Intro_data.png" alt="logo2" width="200"/>
+  <img src="images/Etude_general.png" alt="logo1" width="200"/>
    
-  <img src="images/KPI.png" alt="logo3" width="400"/>
-  <img src="images/Finances.png" alt="logo3" width="400"/>
+  <img src="images/KPI.png" alt="logo3" width="200"/>
+  <img src="images/Finances.png" alt="logo3" width="200"/>
   
-  <img src="images/Evalutation_genres.png" alt="logo3" width="400"/>
-  <img src="images/Contributeurs.png" alt="logo3" width="400"/>
+  <img src="images/Evalutation_genres.png" alt="logo3" width="200"/>
+  <img src="images/Contributeurs.png" alt="logo3" width="200"/>
 </p>
 
