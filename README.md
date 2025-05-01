@@ -23,7 +23,9 @@ Les données sont disponibles sur le site IMDB. Les données sont réparties en 
 - Les datasets sont disponibles [ici](https://datasets.imdbws.com/).
 - Le dataset complémentaire est disponible [ici](https://drive.google.com/file/d/1VB5_gl1fnyBDzcIOXZ5vUSbCY68VZN1v/view) 
 
-## Problématique : Offrir une expérience de recommandation de films personnalisée à travers une interface interactive, en analysant des données issues d'IMDB pour un cinéma local.
+## Problématique : 
+
+Offrir une expérience de recommandation de films personnalisée à travers une interface interactive, en analysant des données issues d'IMDB pour un cinéma local.
 
 ## Solution mise en place :
 
