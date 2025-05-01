@@ -23,11 +23,11 @@ Les données sont disponibles sur le site IMDB. Les données sont réparties en 
 - Les datasets sont disponibles [ici](https://datasets.imdbws.com/).
 - Le dataset complémentaire est disponible [ici](https://drive.google.com/file/d/1VB5_gl1fnyBDzcIOXZ5vUSbCY68VZN1v/view) 
 
-## Problématique : 
+## Problématique 
 
 Offrir une expérience de recommandation de films personnalisée à travers une interface interactive, en analysant des données issues d'IMDB pour un cinéma local.
 
-## Solution mise en place :
+## Solution mise en place 
 
 -  Création d'un dashboard analytique avec Power BI permettant de visualiser des statistiques sur les films (durée, genre, acteurs) et d'explorer des tendances à travers des graphiques interactifs.
 
